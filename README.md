@@ -15,3 +15,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 I want to acknowalge all of the peopole that helped me into the very late hours of the night and morning. I am glad to have peers that can peer program and catch the small sintaxs. 
+
+
+
+
+<img width="1440" alt="Screen Shot 2022-10-05 at 6 33 44 PM" src="https://user-images.githubusercontent.com/110926781/194182443-110aebd8-0bb1-4387-bebb-6816ff31351d.png">
