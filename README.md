@@ -20,3 +20,19 @@ I want to acknowalge all of the peopole that helped me into the very late hours 
 
 
 <img width="1440" alt="Screen Shot 2022-10-05 at 6 33 44 PM" src="https://user-images.githubusercontent.com/110926781/194182443-110aebd8-0bb1-4387-bebb-6816ff31351d.png">
+
+
+
+
+<img width="1440" alt="Screen Shot 2022-10-05 at 6 33 53 PM" src="https://user-images.githubusercontent.com/110926781/194182482-5e3605f3-a218-47f1-81dc-ae730168ad6b.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-10-05 at 6 34 03 PM" src="https://user-images.githubusercontent.com/110926781/194182504-b4e2519a-6128-4e9e-86c9-292de814ef5b.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-10-05 at 6 34 06 PM" src="https://user-images.githubusercontent.com/110926781/194182521-4310b5e1-9054-40fc-bc7d-be43b8cee1b6.png">
+
+
+
