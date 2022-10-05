@@ -1,0 +1,106 @@
+:root {
+  --red: #d00e0e;
+  --blue: #0b31ed;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.5rem;
+  padding:1% 3%;
+  font-family: 'Raleway', sans-serif;
+  background-color: rgb(188, 186, 186);
+}
+
+header {
+  display:flex;
+  justify-content: space-between;
+  margin-bottom:5%;
+}
+.high-scores:hover{
+color:var(--blue)
+}
+
+.high-scores, .time{
+  color:var(--red);
+}
+.intro{
+  text-align: center;
+}
+.intro h1{
+  font-weight: 700;
+  line-height: 2;
+}
+
+main{
+  margin:auto;
+  width:65%;
+}
+.quiz-wrapper{
+  margin-left: 10rem;
+}
+.quiz .question{
+  font-size: 2.4rem;
+  margin: 1.5rem 3.5rem;
+}
+
+.quiz .option{
+  font-size: 1.6rem;
+  color:white;
+  padding:1rem 2rem;
+  margin:1rem 2rem 0 0 ;
+  border-radius: 1.5rem;
+  width: 50%;
+  list-style: none;
+  text-align: left;
+}
+
+.answer-border{
+  font-size: 2.4rem;
+  color:var(--red);
+  border-top:var(--red) solid 2px;
+  margin:3rem 13.2rem 0;
+}
+
+.result, .initials-form {
+  font-size:1.6rem;
+  margin:3rem 3rem 3rem 10rem;
+}
+.result h2 {
+  font-size: 2.4rem;
+}
+
+.initials-form label, .initials-form input, .initials-form button{
+  margin-right: 1rem;
+  vertical-align:middle;
+}
+
+.view-score h2{
+  font-size: 2.4rem;
+  margin: 0 0 2rem 4rem;
+}
+
+.initials-score {
+  background-color:var(--red) ;
+  color:white;
+  padding: .5rem 1.5rem;
+  border-radius: .5rem;
+  margin: 1rem;
+  list-style: none;
+  width: 70%;
+}
+.view-score {
+  font-size:1.6rem;
+  margin:10rem 3rem 3rem 10rem;
+}
+
+
+.go-back-btn{
+  margin: 0 2rem 0 14.2rem;
+}
+
+.btn-primary {
+  background-color: var(--red);
+  border: var(--red);
+}
